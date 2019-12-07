@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><config>
+    <item>
+        <nombre>Daniel</nombre>
+        <apellido1>Perez</apellido1>
+        <apellido2>Moreno</apellido2>
+    </item>
+    
+    <item>
+        <nombre>Francisco</nombre>
+        <apellido1>Aliseda</apellido1>
+        <apellido2>Polanco</apellido2>
+    </item>
+</config>
